@@ -1,5 +1,5 @@
 title: "<title>"
-labels: [SSW.Rules.Content]
+labels: [📃 SSW.Rules.Content]
 body:
 - type: dropdown
   attributes:
